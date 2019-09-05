@@ -1,0 +1,415 @@
+.bg-overlay {
+  background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://raw.githubusercontent.com/ankit2855/image/master/cropped%20one.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 1300px;
+    padding-top: 50px;
+opacity: 0.75;
+
+
+}
+
+#title{
+   background-color: #4CADAA;
+color:white;
+
+
+}
+
+.edu{
+  font-family:"Ubuntu", sans-serif ;
+    font-size: 3rem;
+    line-height: 1.5;
+
+  text-align: center;
+  color:#e6dedd;
+  padding-top:20px;
+}
+.con{
+  font-family:"Ubuntu", sans-serif ;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+    color:#e6dedd;
+    padding-top:0px;
+}
+
+
+h1 {
+font-family:"Ubuntu", sans-serif ;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 800;
+position: relative;
+padding-top:150px;
+text-align: center;
+}
+hr{
+
+  border-top:7px dotted #EAF6F6;
+
+  border-bottom: none;
+  width:48px;
+  margin: 100px auto;
+
+}
+
+h3{
+  font-family:"Montserrat";
+  font-weight: bold;
+  color:#22A39F;
+  text-align: center;
+
+
+}
+.inst{
+  font-family:"Montserrat";
+
+  color:#08ffc8;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+
+
+.about{
+  font-family:"Montserrat";
+  font-weight: bold;
+  text-align: center;
+  color:#22A39F;
+
+}
+.prof{
+  text-align: center;
+  color:#22A39F;
+  font-size: 3rem;
+padding-top: 40px;
+}
+
+h2{
+  font-family:"Montserrat";
+  font-weight: bold;
+
+
+}
+.skill-header{
+  text-align:center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.abil-header{
+  font-family:"Ubuntu", sans-serif ;
+  font-size: 3rem;
+  text-align: center;
+padding-top:40px;
+line-height: 1.5;
+color:#22A39F;
+
+}
+
+
+.skills{
+
+font-family: "Montserrat";
+color:black;
+text-align: center;
+font-size: 1rem;
+line-height: 1.5;
+
+
+}
+
+#Abilities{
+  padding-bottom: 100px;
+  background-color:#F3EFE0;
+}
+
+#intro{
+  color:white;
+  text-align: center;
+}
+
+p{
+  color:#8f8f8f;
+  font-family:"Montserrat";
+  line-height: 1.5;
+
+}
+
+.years{
+  font-family:"Montserrat";
+  line-height: 1.5;
+  color:white;
+  text-align: center;
+
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+font-weight: bold;
+
+}
+
+.navbar{
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item{
+  font-family:"Montserrat";
+  line-height: 1.5;
+  padding: 0 1rem 0 1rem;
+
+}
+
+.nav-link{
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+}
+
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+.iphone{
+  width:50%;
+  transform:rotate(25deg);
+
+}
+
+.icon{
+  color:#ef8172;
+  margin-bottom: :1rem;
+
+}
+.icon:hover{
+  color:#ff4c68;
+}
+
+#features{
+
+  padding:7% 15%;
+}
+
+.feature-box{
+  text-align:center;
+
+}
+
+
+#testimonials{
+
+  background-color:#444f5a;    /* #5d5d5d;*/
+
+}
+
+.caraosuel-item{
+
+  text-align: center;
+  padding: 7% 15%;
+
+}
+
+.testimonial-image-con{
+
+  margin:5% 25%;
+width:50%;
+
+
+}
+
+.testimonial-text{
+
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family:"Montserrat";
+  font-weight: bold;
+  color: #e6dedd;
+}
+
+
+#press{
+  background-color:;
+  text-align:center;
+  background-color: #444f5a;
+}
+
+
+.press-img{
+  width:5%;
+margin:2% 7%;
+}
+
+
+.profile-pic{
+  width:200px;
+  height: 200px;
+
+  border-radius: 90%;
+  border: 10px solid #F3EFE0;
+  margin-top: 10%;
+
+}
+.dpview{
+  text-align: center;
+}
+
+.col-detail{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.profile{
+
+  margin: 0 auto;
+  padding-bottom: 200px;
+
+}
+
+
+.profile-intro{
+
+text-align: center;
+  margin-top: 20%;
+  color:black;
+
+
+}
+
+.right-intro{
+  color:black;
+  margin-top: 15%;
+text-align: center;
+margin-left: 4%;
+
+
+}
+
+.profile{
+margin-top: 5%;
+}
+
+
+.card-body{
+    background-color: #00adb5;
+    padding-bottom: 200px;
+
+
+}
+
+
+
+.card-title{
+    background-color: #393e46;
+    color:white;
+    text-align: center;
+    font-family:"Montserrat";
+    line-height: 1.5;
+
+}
+
+.col-pro{
+    background-color: #393e46;
+    /*padding:10px;*/
+
+
+}
+
+.row-pro
+{
+    background-color: #393e46;
+    width:80%;
+    margin: 30px auto;
+
+
+}
+
+
+#Projects{
+background-color:  #393e46;
+padding-bottom: 130px;
+
+}
+
+.card-text{
+  font-family:"Montserrat";
+  line-height: 1.5;
+  color:#e6dedd;
+  text-align: center;
+font-weight: bold;
+padding-top: 40px;
+}
+
+
+#getintouch{
+  background-color: #eeeeee;
+  padding-bottom:60px;
+}
+
+.ques{
+
+    font-family:"Montserrat";
+    color:#22A39F;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 1.3rem;
+    padding: 40px;
+}
+
+.statement{
+  font-family:"Montserrat";
+  color:black;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: bold;
+padding: 20px;
+}
+
+.bts{
+  text-align: center;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.btn{
+  color:#22A39F;
+}
+
+.btn-outline-info{
+   border-color:#22A39F;
+}
+
+
+.btn:hover{
+  background-color:#22A39F;
+}
+
+
+#footer{
+  padding:2% 15%;
+  text-align: center;
+  background-color: #222831;
+  color: white;
+
+}
+
+.copyright{
+  font-family: "Montserrat";
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.foot-icon{
+  padding: 20px 10px;
+color:white;
+font-size: 1.2rem;
+}
